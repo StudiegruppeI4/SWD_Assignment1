@@ -4,5 +4,6 @@
     {
         void CalcButtonPushed(int button);
         void ValueButtonPushed(int button);
+        void UndoButtonPushed();
     }
 }
